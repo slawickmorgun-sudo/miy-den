@@ -1,0 +1,9 @@
+{
+  "name": "МІЙ ДЕНЬ",
+  "short_name": "МІЙ ДЕНЬ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060811",
+  "theme_color": "#070a12",
+  "icons": []
+}
